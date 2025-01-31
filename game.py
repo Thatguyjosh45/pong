@@ -13,7 +13,7 @@ WHITE = (255, 255, 255)
 BLACK = (0, 0, 0)
 
 # Ball settings
-BALL_SPEED = 5
+BALL_SPEED = 4
 BALL_SIZE = 15
 
 # Paddle settings
